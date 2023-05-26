@@ -33,3 +33,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+DATABASE_URL="postgresql://postgres:OVdnSL60tZmWDMQFMbAC@containers-us-west-163.railway.app:6214/railway"
